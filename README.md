@@ -7,6 +7,6 @@
   <br>
   <br>
   
-  <h1> Stats </h1>
+  <h1> <p>#1F511<\p>Stats </h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Park-Min-Jeong&theme=default&show_icons=true">
 </div>
