@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Park%20Minjeong&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header">
   
   <h2> Links </h2>
   <a href="https://www.instagram.com/minwjd1028/">
