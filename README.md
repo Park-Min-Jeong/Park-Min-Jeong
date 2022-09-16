@@ -3,7 +3,7 @@
   
   <h1> Title </h1>
   
-  <h1> #1F511 Stats </h1>
+  <h1> #1F511 Stats; </h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Park-Min-Jeong&theme=default&show_icons=true">
 </div>
 
